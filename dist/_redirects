@@ -1,0 +1,13 @@
+# Cloudflare Pages Redirects Configuration
+# Simple format: source destination [code]
+
+# Redirect www to non-www (optional - uncomment if needed)
+# https://www.tubesubs.com/* https://tubesubs.com/:splat 301
+
+# Redirect HTTP to HTTPS (handled automatically by Cloudflare)
+
+# Custom 404 page (optional - uncomment if you create a 404.html)
+# /404.html /404.html 200
+
+# Fallback for SPA (if you convert to single-page app later)
+# /* /index.html 200
