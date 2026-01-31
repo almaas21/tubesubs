@@ -270,7 +270,7 @@ if (whatsappBtn) {
         const name = document.getElementById('name')?.value;
         if (name) {
             e.preventDefault();
-            const message = `Hi, my name is ${name}. I'm interested in your Google Business Profile optimization service.`;
+            const message = `Hi, my name is ${name}. I'm interested in your Google Business Profile optimization and website development services.`;
             window.open(`https://wa.me/919936720440?text=${encodeURIComponent(message)}`, '_blank');
         }
     });

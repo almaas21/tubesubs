@@ -1,7 +1,7 @@
 {
   "name": "tubesubs",
   "version": "1.0.0",
-  "description": "TubeSubs - Google Business Profile Optimization Service",
+  "description": "TubeSubs - Google Business Profile Optimization & Website Development Service",
   "main": "index.html",
   "scripts": {
     "build": "node build.js",
@@ -13,7 +13,11 @@
     "business",
     "profile",
     "seo",
-    "optimization"
+    "optimization",
+    "website",
+    "development",
+    "web",
+    "design"
   ],
   "author": "Syed Almaas Parvez",
   "license": "MIT"
