@@ -16,7 +16,7 @@ export async function onRequestPost(context) {
           body: JSON.stringify({
             personalizations: [
               {
-                to: [{ email: "syed@tubesubs.com", name: "Syed Almaas Parvez" }],
+                to: [{ email: "info@tubesubs.com", name: "TubeSubs" }],
               },
             ],
             from: {

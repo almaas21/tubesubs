@@ -60,7 +60,7 @@ Contact for a quote tailored to your business needs.
 ## 📞 Contact
 
 - **Phone**: +91 99367 20440
-- **Email**: syed@tubesubs.com
+- **Email**: info@tubesubs.com
 - **WhatsApp**: +91 99367 20440
 
 ## 🛠️ Tech Stack
