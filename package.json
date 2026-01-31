@@ -1,0 +1,14 @@
+{
+  "name": "tubesubs",
+  "version": "1.0.0",
+  "description": "TubeSubs - Google Business Profile Optimization Service",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000"
+  },
+  "keywords": ["google", "business", "profile", "seo", "optimization"],
+  "author": "Syed Almaas Parvez",
+  "license": "MIT"
+}
